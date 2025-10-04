@@ -1,0 +1,12 @@
+joblib==1.4.2
+jupyter==1.1.1
+jupyterlab==4.4.9
+matplotlib==3.9.2
+notebook==7.4.7
+numpy==1.26.4
+pandas==2.2.2
+pip==24.2
+seaborn==0.13.2
+spyder==5.5.1
+streamlit==1.37.1
+scikit-learn==1.5.1
